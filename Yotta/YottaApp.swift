@@ -2,7 +2,7 @@
 //  YottaApp.swift
 //  Yotta
 //
-//  Created by Pedro Lacoste on 12-11-25.
+//  Created by Pedro Lacoste on 24-11-25.
 //
 
 import SwiftUI
